@@ -1,0 +1,10 @@
+C:\Users\Estudiante\Desktop\sistema-de-notas\promedio\bin\Debug\promedio.exe.config
+C:\Users\Estudiante\Desktop\sistema-de-notas\promedio\bin\Debug\promedio.exe
+C:\Users\Estudiante\Desktop\sistema-de-notas\promedio\bin\Debug\promedio.pdb
+C:\Users\Estudiante\Desktop\sistema-de-notas\promedio\obj\Debug\promedio.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\sistema-de-notas\promedio\obj\Debug\promedio.frmCuadroNotas.resources
+C:\Users\Estudiante\Desktop\sistema-de-notas\promedio\obj\Debug\promedio.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\sistema-de-notas\promedio\obj\Debug\promedio.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\sistema-de-notas\promedio\obj\Debug\promedio.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\sistema-de-notas\promedio\obj\Debug\promedio.exe
+C:\Users\Estudiante\Desktop\sistema-de-notas\promedio\obj\Debug\promedio.pdb
