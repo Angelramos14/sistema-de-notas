@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{23CB880E-278D-43E7-B0D2-C14448C5DBF6}|promedio.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23CB880E-278D-43E7-B0D2-C14448C5DBF6}|promedio.csproj|c:\\users\\estudiante\\desktop\\sistema-de-notas\\promedio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{23CB880E-278D-43E7-B0D2-C14448C5DBF6}|promedio.csproj|C:\\Users\\Estudiante\\Desktop\\sistema-de-notas\\promedio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{23CB880E-278D-43E7-B0D2-C14448C5DBF6}|promedio.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,9 +26,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\sistema-de-notas\\promedio\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\sistema-de-notas\\promedio\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAiwC8AAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\sistema-de-notas\\promedio\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwCUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T14:21:52.804Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\Estudiante\\Desktop\\sistema-de-notas\\promedio\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T21:17:09.336Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-06-12T21:17:09.336Z"
             }
           ]
         }

@@ -35,7 +35,7 @@ namespace promedio
 
                 if ((nota1 > 10 || nota1 < 0) || (nota2 > 10 || nota2 < 0) || (nota3 > 10 || nota3 < 0))
                 {
-                    lblError.Text = "Porfavor oingresa un valor entre 0 y 10";
+                    lblError.Text = "Porfavor ingresa un valor entre 0 y 10";
                 }
                 else
                 {
